@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there I am Raj Patel👋
 
+
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Raj-04&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on cool things!
