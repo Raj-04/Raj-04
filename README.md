@@ -15,7 +15,7 @@
      * Testing: Cypress, React Testing Libraries, Jest, Superte
 
 - 📫 How to reach me: 1204patel.raj@gmail.com
-- :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-patel04/)
+- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-patel04/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -33,10 +33,8 @@
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Raj-04
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raj-04&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
