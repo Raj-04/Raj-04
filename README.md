@@ -19,9 +19,9 @@
 :zap: In my free time, I solve problems on Leet-code and take Mosh Hamedani Courses.
 
 - 🏆 I have learned
-     * Front end: Javascript, Python, HTML, CSS, React, Redux, hooks, styled-components, SASS
+     * Front end: Javascript, HTML, CSS, React, Redux, Hooks, Styled-Components, SASS
      * Back End: NodeJS, Express, REST API, Bcryptjs, JSON Web Token, SQL, PostgreSQL, SQLite
-     * Testing: Cypress, React Testing Libraries, Jest, Superte
+     * Testing: Cypress, React Testing Libraries, Jest
 
 - 📫 How to reach me: 1204patel.raj@gmail.com
 - [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-patel04/)
