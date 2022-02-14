@@ -1,5 +1,12 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 ### Hi there I am Raj Patel👋
 
+
+### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on Full Stack Web Development Certification at BloomTech
 
@@ -7,7 +14,9 @@
 
 - 👯 I’m looking to collaborate on anything to futher my skills and growth as a developer!
 
-- 💬 Ask me about how i helped someone today
+- 💬 Ask me about how I helped someone today
+
+:zap: In my free time, I solve problems on Leet-code and take Mosh Hamedani Courses.
 
 - 🏆 I have learned
      * Front end: Javascript, Python, HTML, CSS, React, Redux, hooks, styled-components, SASS
