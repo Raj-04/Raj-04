@@ -15,7 +15,7 @@
      * Testing: Cypress, React Testing Libraries, Jest, Superte
 
 - 📫 How to reach me: 1204patel.raj@gmail.com
-- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-patel04/)
+- [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-patel04/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
