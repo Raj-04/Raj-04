@@ -8,15 +8,15 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on Full Stack Web Development Certification at BloomTech.
+- 🔭 I’m currently working on Full Stack Web Development Certification at BloomTech
 
-- 🌱 I’m currently learning to understand, the git flow in a large team setting.
+- 🌱 I’m currently learning to understand, the git flow in a large team setting
 
 - 👯 I’m looking to collaborate on anything to futher my skills and growth as a developer!
 
 - 💬 Ask me about how I helped someone today
 
-:zap: In my free time, I solve problems on Leet-code and take Mosh Hamedani Courses.
+:zap: In my free time, I solve problems on Leet-code and take Mosh Hamedani Courses
 
 - 🏆 I have learned
      * Front end: Javascript, HTML, CSS, React, Redux, Hooks, Styled-Components, SASS
