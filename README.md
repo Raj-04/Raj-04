@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on Full Stack Web Development Certification at BloomTech.
+- 🔭 I’m currently working on Full Stack Web Development Certification at BloomTech
 
 - 🌱 I’m currently learning to understand, the git flow in a large team setting
 
@@ -22,7 +22,7 @@
      * Front end: Javascript, HTML, CSS, React, Redux, Hooks, Styled-Components, SASS
      * Back End: NodeJS, Express, REST API, Bcryptjs, JSON Web Token, SQL, PostgreSQL, SQLite
      * Testing: Cypress, React Testing Libraries, Jest
-     * Additional Skills: Zoom, Github, Slack, Heroku, Versel.
+     * Additional Skills: Zoom, Github, Slack, Heroku, Versel
 
 - 📫 How to reach me: 1204patel.raj@gmail.com
 - [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-patel04/)
