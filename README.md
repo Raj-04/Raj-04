@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on Full Stack Web Development Certification at BloomTech.
+- 🔭 I’m currently working on Full Stack Web Development Certification at BloomTech
 
 - 🌱 I’m currently learning to understand, the git flow in a large team setting
 
