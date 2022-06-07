@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <table>
  <td width="50%" valign="top">
-<a href="http://www.github.com/Raj-04"><img src="https://activity-graph.herokuapp.com/graph?username=Raj&bg_color=27272a&color=ffffff&line=a855f7&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Raj-04"><img src="https://activity-graph.herokuapp.com/graph?username=Raj Patel&bg_color=27272a&color=ffffff&line=a855f7&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   </td>
  </table>
 
