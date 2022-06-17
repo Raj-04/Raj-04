@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Full Stack Web Development Certification at BloomTech
 
-- 🌱 I’m currently learning to understand, the git flow in a large team setting
+- 🌱 I’m currently learning to understand, the git flow in a large team setting.
 
 - 👯 I’m looking to collaborate on anything to futher my skills and growth as a developer!
 
