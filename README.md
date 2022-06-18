@@ -16,7 +16,7 @@
 
 - 💬 Ask me about how I helped someone today
 
-:zap: In my free time, I solve problems on Leet-code and take Mosh Hamedani Courses
+:zap: In my free time, I solve problems on Leet-code and take Mosh Hamedani Courses.
 
 - 🏆 I have learned
      * Front end: Javascript, HTML, CSS, React, Redux, Hooks, Styled-Components, SASS
